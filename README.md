@@ -39,10 +39,8 @@ Each problem folder contains:
 
 ## 💻 Languages Used
 
-- Python 🐍
-- JavaScript 🟨
 - Java ☕
-- C++ ⚙️
+
 
 ## 🎓 Learning Journey
 
